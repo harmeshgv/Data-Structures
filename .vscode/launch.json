@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Bit_Manipulation",
+            "request": "launch",
+            "mainClass": "Bit_Manipulation",
+            "projectName": "Data-Structures_3d6d27"
+        },
+        {
+            "type": "java",
+            "name": "GraphSearch",
+            "request": "launch",
+            "mainClass": "GraphSearch",
+            "projectName": "Data-Structures_3d6d27"
+        },
+        {
+            "type": "java",
+            "name": "BST",
+            "request": "launch",
+            "mainClass": "BST.BST",
+            "projectName": "Data-Structures_3d6d27"
+        },
+        {
+            "type": "java",
+            "name": "BST",
+            "request": "launch",
+            "mainClass": "BST",
+            "projectName": "Data-Structures_3d6d27"
+        },
+        {
+            "type": "java",
+            "name": "SegOddEven",
+            "request": "launch",
+            "mainClass": "SegOddEven",
+            "projectName": "Data-Structures_3d6d27"
+        },
+        {
+            "type": "java",
+            "name": "seperation",
+            "request": "launch",
+            "mainClass": "seperation",
+            "projectName": "Data-Structures_3d6d27"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
