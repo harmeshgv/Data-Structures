@@ -2,10 +2,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
-class Source {
+class pp {
     private HashMap<Character, String> map;
     
-    public Source() {
+    public pp() {
         map = new HashMap<>();
         map.put('2', "abc");
         map.put('3', "def");
@@ -49,7 +49,7 @@ class Source {
     
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        Source source = new Source();
+        pp source = new pp();
         
         String digits = scanner.nextLine();
         
